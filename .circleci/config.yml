@@ -18,7 +18,7 @@ jobs:
 
       - checkout 
 
-      - run: make deps
+      - run: make dycha
 
       - run: make lint
 
